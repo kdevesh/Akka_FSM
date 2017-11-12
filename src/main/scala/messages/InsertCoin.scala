@@ -1,0 +1,5 @@
+package messages
+
+object InsertCoin {
+
+}
